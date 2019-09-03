@@ -2,7 +2,7 @@
 
 
 This repository contains solution for AutoML in binary classification problems for temporal relational data. It was developed by a joint team ('autoflylearn') from Flytxt as a part of KDDCUP 2019 AutoML Challenge (The 5th AutoML Challenge:
-AutoML for Temporal Relational Data). Our solution improved over the baseline solution provided by the organizers significantly and one of the prominent solutions.
+AutoML for Temporal Relational Data). Our solution improved significantly over the baseline solution provided by the organizers significantly and was one of the prominent solutions.
 
 Team:
 
