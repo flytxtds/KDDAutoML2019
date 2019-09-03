@@ -5,10 +5,11 @@ This repository contains solution for AutoML in binary classification problems f
 AutoML for Temporal Relational Data). Our solution improved over the baseline solution provided by the organizers significantly and one of the prominent solutions.
 
 Team:
-1.Harshvardhan Solanki (jobin.wilson@flytxt.com)
+
+1.Harshvardhan Solanki (harshvardhan.solanki@flytxt.com)
 2.Binay Gupta (binay.gupta@flytxt.com)
 3.Amit Kumar Meher (amit.meher@flytxt.com)
-4.Nasibullah(nasibullah104@gmail.com)
+4.Nasibullah Ohidullah(nasibullah104@gmail.com)
 
 
 
