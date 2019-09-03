@@ -1,0 +1,109 @@
+{
+    "time_budget": 6000,
+    "time_col": "t_01",
+    "start_time": 1550654179,
+    "tables": {
+        "main": {
+            "n_1": "num",
+            "n_2": "num",
+            "n_3": "num",
+            "t_01": "time",
+            "c_02": "cat",
+            "c_01": "cat"
+        },
+        "table_1": {
+            "c_01": "cat",
+            "c_1": "cat",
+            "c_2": "cat",
+            "n_1": "num",
+            "n_2": "num",
+            "c_3": "cat",
+            "c_4": "cat",
+            "c_5": "cat",
+            "n_3": "num",
+            "c_6": "cat",
+            "t_1": "time",
+            "n_4": "num",
+            "n_5": "num",
+            "n_6": "num",
+            "n_7": "num",
+            "n_8": "num",
+            "n_9": "num",
+            "n_10": "num",
+            "n_11": "num",
+            "n_12": "num",
+            "n_13": "num",
+            "n_14": "num",
+            "n_15": "num",
+            "n_16": "num",
+            "n_17": "num",
+            "n_18": "num",
+            "n_19": "num",
+            "n_20": "num",
+            "n_21": "num",
+            "n_22": "num",
+            "c_7": "cat",
+            "n_23": "num",
+            "n_24": "num",
+            "n_25": "num",
+            "n_26": "num",
+            "n_27": "num"
+        },
+        "table_2": {
+            "c_02": "cat",
+            "c_1": "cat",
+            "c_2": "cat",
+            "n_1": "num",
+            "n_2": "num",
+            "c_3": "cat",
+            "c_4": "cat",
+            "c_5": "cat",
+            "n_3": "num",
+            "c_6": "cat",
+            "t_1": "time",
+            "n_4": "num",
+            "n_5": "num",
+            "n_6": "num",
+            "n_7": "num",
+            "n_8": "num",
+            "n_9": "num",
+            "n_10": "num",
+            "n_11": "num",
+            "n_12": "num",
+            "n_13": "num",
+            "n_14": "num"
+        },
+        "table_3": {
+            "c_02": "cat",
+            "n_1": "num",
+            "n_2": "num",
+            "n_3": "num",
+            "n_4": "num",
+            "n_5": "num",
+            "n_6": "num",
+            "n_7": "num",
+            "n_8": "num",
+            "n_9": "num"
+        }
+    },
+    "relations": [
+        {
+            "table_A": "main",
+            "table_B": "table_1",
+            "key": ["c_01"],
+            "type": "many_to_one"
+        },
+        {
+            "table_A": "main",
+            "table_B": "table_2",
+            "key": ["c_02"],
+            "type": "many_to_one"
+        },
+        {
+            "table_A": "main",
+            "table_B": "table_3",
+            "key": ["c_02"],
+            "type": "many_to_one"
+        }
+    ]
+}
