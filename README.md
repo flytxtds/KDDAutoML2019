@@ -6,10 +6,10 @@ AutoML for Temporal Relational Data). Our solution improved significantly over t
 
 Team:
 
-1.Harshvardhan Solanki (harshvardhan.solanki@flytxt.com)
-2.Binay Gupta (binay.gupta@flytxt.com)
-3.Amit Kumar Meher (amit.meher@flytxt.com)
-4.Nasibullah Ohidullah(nasibullah104@gmail.com)
+1. Harshvardhan Solanki (harshvardhan.solanki@flytxt.com)
+2. Binay Gupta (binay.gupta@flytxt.com)
+3. Amit Kumar Meher (amit.meher@flytxt.com)
+4. Nasibullah Ohidullah(nasibullah104@gmail.com)
 
 
 
@@ -18,11 +18,11 @@ Team:
 Contents:
 ---------
 
-ingestion_program/: The code and libraries used on Codalab to run your submmission.
-scoring_program/: The code and libraries used on Codalab to score your submmission.
-sample_code_submission/: Our solution code
-sample_data/: Some sample data to test code.
-sample_ref/: Reference data required to evaluate your submission.
+- ingestion_program/: The code and libraries used on Codalab to run your submmission.
+- scoring_program/: The code and libraries used on Codalab to score your submmission.
+- sample_code_submission/: Our solution code
+- sample_data/: Some sample data to test code.
+- sample_ref/: Reference data required to evaluate your submission.
 
 
 
