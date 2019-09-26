@@ -18,11 +18,8 @@ Team:
 Contents:
 ---------
 
-- ingestion_program/: The code and libraries used on Codalab to run your submmission.
-- scoring_program/: The code and libraries used on Codalab to score your submmission.
+
 - sample_code_submission/: Our solution code
-- sample_data/: Some sample data to test code.
-- sample_ref/: Reference data required to evaluate your submission.
 
 
 
@@ -32,6 +29,8 @@ How to run:
 -----------
 
 1. Install docker from https://docs.docker.com/get-started/.
+2. Download starter-kit from competition organizer's website and replace their sample code solution with our folder "sample_code_submission"
+
 2. At the shell, change to the startingkit directory, run
 
 ```
